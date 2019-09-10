@@ -28,4 +28,4 @@
 + Или плюсами
 
 
-![imh](https://placehold.it/150x100)
+![kartinka](https://placehold.it/150x100)
