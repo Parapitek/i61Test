@@ -28,4 +28,4 @@
 + Или плюсами
 
 
-![kartinka](https://placehold.it/150x100)
+![kartinka](https://cdn.pixabay.com/photo/2018/09/26/08/31/car-3703923_960_720.png)
