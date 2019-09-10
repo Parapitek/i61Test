@@ -27,4 +27,5 @@
 - Или минусами
 + Или плюсами
 
-[image1]: https://placehold.it/150x100
+[image1]: 
+![GitHub Logo](https://placehold.it/150x100)
