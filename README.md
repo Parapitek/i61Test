@@ -27,4 +27,4 @@
 - Или минусами
 + Или плюсами
 
-[image1]:https://placehold.it/150x100
+[image1]: https://placehold.it/150x100
